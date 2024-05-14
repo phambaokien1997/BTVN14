@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn14\\eproduct.dataaccess.netcore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|solutionrelative:eproduct.dataaccess.netcore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03AD09CA-C483-4B56-8F40-7D5CCEB92B5F}|BTVN14\\BTVN14.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn14\\btvn14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03AD09CA-C483-4B56-8F40-7D5CCEB92B5F}|BTVN14\\BTVN14.csproj|solutionrelative:btvn14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71F662D-2F89-4FB8-B97D-525313A5897C}|EShop.Common\\EShop.Common.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn14\\eshop.common\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71F662D-2F89-4FB8-B97D-525313A5897C}|EShop.Common\\EShop.Common.csproj|solutionrelative:eshop.common\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn14\\eproduct.dataaccess.netcore\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|solutionrelative:eproduct.dataaccess.netcore\\dto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn14\\eproduct.dataaccess.netcore\\dbcontext\\eproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD15B75-4295-4759-A66C-824DE0046DD7}|EProduct.DataAccess.NetCore\\EProduct.DataAccess.NetCore.csproj|solutionrelative:eproduct.dataaccess.netcore\\dbcontext\\eproductdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EProduct.DataAccess.NetCore\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EProduct.DataAccess.NetCore\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T05:03:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\DTO\\Product.cs",
+              "RelativeDocumentMoniker": "EProduct.DataAccess.NetCore\\DTO\\Product.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\DTO\\Product.cs",
+              "RelativeToolTip": "EProduct.DataAccess.NetCore\\DTO\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:49:00.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EShop.Common\\DbHelper.cs",
+              "RelativeDocumentMoniker": "EShop.Common\\DbHelper.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EShop.Common\\DbHelper.cs",
+              "RelativeToolTip": "EShop.Common\\DbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:12:22.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EProductDBContext.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\DBContext\\EProductDBContext.cs",
+              "RelativeDocumentMoniker": "EProduct.DataAccess.NetCore\\DBContext\\EProductDBContext.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\EProduct.DataAccess.NetCore\\DBContext\\EProductDBContext.cs",
+              "RelativeToolTip": "EProduct.DataAccess.NetCore\\DBContext\\EProductDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:00:03.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\BTVN14\\Program.cs",
+              "RelativeDocumentMoniker": "BTVN14\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN14\\BTVN14\\Program.cs",
+              "RelativeToolTip": "BTVN14\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:51:54.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

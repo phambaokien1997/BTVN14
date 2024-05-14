@@ -1,0 +1,13 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\bin\Debug\net8.0\EShop.Common.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\bin\Debug\net8.0\EShop.Common.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\bin\Debug\net8.0\EShop.Common.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.sourcelink.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\refint\EShop.Common.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\EShop.Common.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN14\EShop.Common\obj\Debug\net8.0\ref\EShop.Common.dll
